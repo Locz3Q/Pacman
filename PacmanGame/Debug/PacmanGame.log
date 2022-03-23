@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\Blazej\source\repos\PacmanGame\PacmanGame\Main.cpp(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
