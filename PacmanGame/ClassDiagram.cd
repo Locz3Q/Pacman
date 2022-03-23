@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Engine" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAA=</HashCode>
+      <FileName>Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAClass" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAQAAAAAABEAAgYAAAEAIBAAAAAAAA=</HashCode>
+      <FileName>GAClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghosts" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEBAAAAIAAAAAAAAIAQAAAAhIAAQIIABAEAAAAAAA=</HashCode>
+      <FileName>Ghosts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labirynth" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAQBAAAAAAAAAAgAAAAGIAAEAAAAAAA=</HashCode>
+      <FileName>Labirynth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgBAAAAIADAAAIEAAAAAgAIAQAIAAAAAAAAAAA=</HashCode>
+      <FileName>Pacman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EveryPoints" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAAAAAAgAAAIAAAAgAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>EveryPoints.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllTexts" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAgAAAAAAACAAIAAAAAAAAAAAACAAABgAAAAAAA=</HashCode>
+      <FileName>AllTexts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GhostsAfraid" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GhostsAfraid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

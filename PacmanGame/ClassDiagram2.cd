@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AllTexts">
+    <Position X="10.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAgAAAAAAACAAIAAAAAAAAAAAACAAABgAAAAAAA=</HashCode>
+      <FileName>AllTexts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAClass">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAECAAABQAAAAAABEAAgYAAAEAIBAAAAAAAA=</HashCode>
+      <FileName>GAClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghosts">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAEBAAAAYACAIEAAgIAQAgAAhYMAQIIABAEAgAAhAA=</HashCode>
+      <FileName>Ghosts.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GhostsAfraid">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GhostsAfraid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labirynth">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAQBAAAAAAAAAAgAAAAGIAAEAACAAAA=</HashCode>
+      <FileName>Labirynth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgBAAAAIIDAAAIEAAAAAgAIAQAIAAAAAAAAAAA=</HashCode>
+      <FileName>Pacman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EveryPoints" Collapsed="true">
+    <Position X="2.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAAAAAAgAAAIAAAAgAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>EveryPoints.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Drawable">
+    <Position X="4.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Blazej\Desktop\Środowiska\SFML\SFML-2.5.1\include\SFML\Graphics\Drawable.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Text">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="sf::Text::Style" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Blazej\Desktop\Środowiska\SFML\SFML-2.5.1\include\SFML\Graphics\Text.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAQAhGJCAIQADABAIABEBEwBUAkkAoAAFSiABIQAA=</HashCode>
+      <FileName>C:\Users\Blazej\Desktop\Środowiska\SFML\SFML-2.5.1\include\SFML\Graphics\Text.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
